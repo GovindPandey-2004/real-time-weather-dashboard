@@ -39,6 +39,20 @@ real-time-weather-dashboard
 ├── style.css
 ├── script.js
 └── README.md
+
+## Screenshots
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Delhi Weather
+
+![Delhi](screenshots/delhi.png)
+
+### Mumbai Weather
+
+![Mumbai](screenshots/mumbai.png)
 ```
 
 ## Author
